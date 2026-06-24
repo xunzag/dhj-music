@@ -7,10 +7,10 @@ import { usePathname } from "next/navigation";
 import clsx from "clsx";
 
 const navLinks = [
-  { href: "/#about", label: "About" },
-  { href: "/#music", label: "Music" },
-  { href: "/#events", label: "Events" },
-  { href: "/#gallery", label: "Gallery" },
+  { href: "/about", label: "About" },
+  { href: "/music", label: "Music" },
+  { href: "/events", label: "Events" },
+  { href: "/gallery", label: "Gallery" },
   { href: "/simply-music", label: "Simply Music" },
 ];
 
